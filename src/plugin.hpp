@@ -1,7 +1,7 @@
 #pragma once
 
 #include "rack.hpp"
-#include "componentlibrary.hpp"
+#include "osdialog.h"
 
 #include "coords.hpp"
 #include "util.hpp"

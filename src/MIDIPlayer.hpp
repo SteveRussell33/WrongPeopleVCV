@@ -1,7 +1,6 @@
 #pragma once
 
 #include "plugin.hpp"
-#include "osdialog.h"
 #include "MidiFile.h"
 
 // Reading MIDI files using Midifile library (https://github.com/craigsapp/midifile)

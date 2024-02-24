@@ -2,7 +2,6 @@
 
 #include <iostream>
 #include "plugin.hpp"
-#include "osdialog.h"
 
 #define LUA_COMPAT_APIINTCASTS
 #include "lua.hpp"
